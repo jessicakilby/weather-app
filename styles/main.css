@@ -1,0 +1,12 @@
+body {
+  background-color: teal; }
+  body h1 {
+    text-align: center; }
+
+#zip {
+  margin: 0 auto; }
+
+.search-bar {
+  width: 50%;
+  background-color: LightBlue;
+  text-align: center; }
